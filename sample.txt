@@ -1,3 +1,5 @@
 this is a test 
 This file has been edited with GitHub.
 This file was edited on my local system.
+
+This is a conflict post from GitHub.
